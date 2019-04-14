@@ -5,9 +5,9 @@ import com.pokecraftia.pokemod.base.BlockBase;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
 
-public class RubyBlock extends BlockBase {
+public class RedBlock extends BlockBase {
 
-	public RubyBlock(String name, Material material) {
+	public RedBlock(String name, Material material) {
 		super(name, material);
 		setSoundType(SoundType.METAL);
 		setHardness(5.0F);

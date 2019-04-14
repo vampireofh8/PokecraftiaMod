@@ -1,13 +1,15 @@
 package com.pokecraftia.pokemod.init;
 
-import net.minecraft.init.Blocks;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 
 public class ModRecipes {
 
 	public static void init() {
-		GameRegistry.addSmelting(ModItems.RUBY, new ItemStack(ModBlocks.RUBY_BLOCK, 1), 1.5f);
-		GameRegistry.addSmelting(ModBlocks.RUBY_BLOCK, new ItemStack(Blocks.DIAMOND_BLOCK, 2), 3.0f);
+		GameRegistry.addSmelting(ModBlocks.RED_ORE,new ItemStack(ModItems.RED_INGOT, 1), 0.0f);
+		GameRegistry.addSmelting(ModBlocks.BLUE_ORE,new ItemStack(ModItems.BLUE_INGOT, 1), 0.0f);
+		GameRegistry.addSmelting(ModBlocks.GREEN_ORE,new ItemStack(ModItems.GREEN_INGOT, 1), 0.0f);
+		
+		
 	}
 }

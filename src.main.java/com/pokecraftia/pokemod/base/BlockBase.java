@@ -1,4 +1,4 @@
-package com.pokecraftia.pokemod.blocks;
+package com.pokecraftia.pokemod.base;
 
 import com.pokecraftia.pokemod.PokeMod;
 import com.pokecraftia.pokemod.init.ModBlocks;

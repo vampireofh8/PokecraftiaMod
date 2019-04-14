@@ -1,4 +1,4 @@
-package com.pokecraftia.pokemod.items;
+package com.pokecraftia.pokemod.base;
 
 
 import com.pokecraftia.pokemod.PokeMod;

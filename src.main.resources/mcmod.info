@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pokemod",
+  "name": "Pokecraftia Mod",
+  "description": "Official Mod made for Pokecraftia the Pixelmon modpack",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vampireofh8"],
+  "credits": "Thanks to many tutorials and crap online lol",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

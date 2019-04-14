@@ -1,17 +1,17 @@
-package com.pokecraftia.pokemod.items;
-
+package com.pokecraftia.pokemod.items.tools;
 
 import com.pokecraftia.pokemod.PokeMod;
 import com.pokecraftia.pokemod.init.ModItems;
 import com.pokecraftia.pokemod.util.IHasModel;
 
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.Item;
+import net.minecraft.item.ItemSpade;
 
-public class ItemBase extends Item implements IHasModel {
+public class ToolSpade extends ItemSpade implements IHasModel {
 
-	public ItemBase(String name)
+	public ToolSpade(String name, ToolMaterial material)
 	{
+		super(material);
 		setUnlocalizedName(name);
 		setRegistryName(name);
 		setCreativeTab(CreativeTabs.MATERIALS);

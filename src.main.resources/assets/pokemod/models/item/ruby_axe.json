@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "pokemod:items/ruby_axe"
+   }
+}

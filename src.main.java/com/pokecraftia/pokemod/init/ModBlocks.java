@@ -8,7 +8,11 @@ import com.pokecraftia.pokemod.blocks.BlueOre;
 import com.pokecraftia.pokemod.blocks.GreenBlock;
 import com.pokecraftia.pokemod.blocks.GreenOre;
 import com.pokecraftia.pokemod.blocks.RedBlock;
+import com.pokecraftia.pokemod.blocks.RedLeaves;
+import com.pokecraftia.pokemod.blocks.RedLog;
 import com.pokecraftia.pokemod.blocks.RedOre;
+import com.pokecraftia.pokemod.blocks.RedPlank;
+import com.pokecraftia.pokemod.blocks.RedSapling;
 import com.pokecraftia.pokemod.blocks.YellowBlock;
 import com.pokecraftia.pokemod.blocks.YellowOre;
 import com.pokecraftia.pokemod.blocks.OrangeBlock;
@@ -37,5 +41,9 @@ public class ModBlocks
 		//Green
 		public static final Block GREEN_BLOCK 	= new GreenBlock(	"green_block", 	Material.IRON);
 		public static final Block GREEN_ORE 	= new GreenOre(		"green_ore", 	Material.ROCK);
-
+		//RedWood
+		public static final Block RED_LOG		= new RedLog(		"red_log",		Material.WOOD);
+		public static final Block RED_LEAVES	= new RedLeaves(	"red_leaves",	Material.WOOD);
+		public static final Block RED_PLANK		= new RedPlank(		"red_plank",	Material.WOOD);
+		public static final Block RED_SAPLING	= new RedSapling(	"red_sapling",	Material.WOOD);	
 }

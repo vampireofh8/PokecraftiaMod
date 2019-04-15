@@ -38,15 +38,15 @@ public class ModItems
 		public static final ToolMaterial MATERIAL_GREEN = EnumHelper.addToolMaterial("material_green", 3, 250, 8.0F, 3.0F, 10);
 		//armor
 
-		public static final ArmorMaterial ARMOR_MATERIAL_RED = EnumHelper.addArmorMaterial("armor_material_red", Reference.MOD_ID + ":red_armor", 14, 
+		public static final ArmorMaterial ARMOR_MATERIAL_RED = EnumHelper.addArmorMaterial("armor_material_red", Reference.MOD_ID + ":red", 14, 
 				new int[] {2, 5, 7, 3}, 10, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 0.0F);
-		public static final ArmorMaterial ARMOR_MATERIAL_ORANGE = EnumHelper.addArmorMaterial("armor_material_orange", Reference.MOD_ID + ":orange_armor", 14, 
+		public static final ArmorMaterial ARMOR_MATERIAL_ORANGE = EnumHelper.addArmorMaterial("armor_material_orange", Reference.MOD_ID + ":orange", 14, 
 				new int[] {2, 5, 7, 3}, 10, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 0.0F);		
-		public static final ArmorMaterial ARMOR_MATERIAL_YELLOW = EnumHelper.addArmorMaterial("armor_material_yellow", Reference.MOD_ID + ":yellow_armor", 14, 
+		public static final ArmorMaterial ARMOR_MATERIAL_YELLOW = EnumHelper.addArmorMaterial("armor_material_yellow", Reference.MOD_ID + ":yellow", 14, 
 				new int[] {2, 5, 7, 3}, 10, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 0.0F);		
-		public static final ArmorMaterial ARMOR_MATERIAL_BLUE = EnumHelper.addArmorMaterial("armor_material_blue", Reference.MOD_ID + ":blue_armor", 14, 
+		public static final ArmorMaterial ARMOR_MATERIAL_BLUE = EnumHelper.addArmorMaterial("armor_material_blue", Reference.MOD_ID + ":blue", 14, 
 				new int[] {2, 5, 7, 3}, 10, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 0.0F);
-		public static final ArmorMaterial ARMOR_MATERIAL_GREEN = EnumHelper.addArmorMaterial("armor_material_green", Reference.MOD_ID + ":green_armor", 14, 
+		public static final ArmorMaterial ARMOR_MATERIAL_GREEN = EnumHelper.addArmorMaterial("armor_material_green", Reference.MOD_ID + ":green", 14, 
 				new int[] {2, 5, 7, 3}, 10, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 0.0F);
 	
 	//Item list begins ---------------------------------------->

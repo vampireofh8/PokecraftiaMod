@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "pokemod:yellow_block"
+        }
+    ],
+    "result": {
+        "item": "pokemod:yellow_ingot",
+        "count": 9
+    }
+}

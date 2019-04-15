@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RR",
+        "RS",
+        " S"
+    ],
+    
+    "key":
+    {
+        "R":{"item": "pokemod:orange_ingot"},
+        "S":{"item": "minecraft:stick"}
+    },
+
+    "result":
+    {"item": "pokemod:orange_axe","count": 1}
+}

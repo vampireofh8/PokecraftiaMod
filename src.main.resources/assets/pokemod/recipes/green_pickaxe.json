@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GGG",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "G":{"item": "pokemod:green_ingot"},
+        "S":{"item": "minecraft:stick"}
+    },
+
+    "result":
+    {"item": "pokemod:green_pickaxe","count": 1}
+}

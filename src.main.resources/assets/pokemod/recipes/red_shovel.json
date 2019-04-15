@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "R",
+        "S",
+        "S"
+    ],
+    
+    "key":
+    {
+        "R":{"item": "pokemod:red_ingot"},
+        "S":{"item": "minecraft:stick"}
+    },
+
+    "result":
+    {"item": "pokemod:red_shovel","count": 1}
+}

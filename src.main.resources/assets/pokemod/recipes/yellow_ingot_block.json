@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":{"item": "pokemod:yellow_ingot"}
+    
+    },
+
+    "result":
+    {"item": "pokemod:yellow_block","count": 1}
+}

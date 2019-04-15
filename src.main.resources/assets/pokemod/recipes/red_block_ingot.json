@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "pokemod:red_block"
+        }
+    ],
+    "result": {
+        "item": "pokemod:red_ingot",
+        "count": 9
+    }
+}

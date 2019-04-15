@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BBB",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":{"item": "pokemod:blue_ingot"}
+    
+    },
+
+    "result":
+    {"item": "pokemod:blue_block","count": 1}
+}

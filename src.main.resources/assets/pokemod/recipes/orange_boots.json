@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "R R",
+        "R R"
+    ],
+    
+    "key":
+    {
+        "R":{"item": "pokemod:orange_ingot"}
+    },
+
+    "result":
+    {"item": "pokemod:orange_boots","count": 1}
+}

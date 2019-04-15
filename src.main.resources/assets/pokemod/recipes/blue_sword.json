@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B",
+        "B",
+        "S"
+    ],
+    
+    "key":
+    {
+        "B":{"item": "pokemod:blue_ingot"},
+        "S":{"item": "minecraft:stick"}
+    },
+
+    "result":
+    {"item": "pokemod:blue_sword","count": 1}
+}

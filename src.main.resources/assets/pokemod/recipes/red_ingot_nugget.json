@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "pokemod:red_ingot"
+        }
+    ],
+    "result": {
+        "item": "pokemod:red_nugget",
+        "count": 9
+    }
+}

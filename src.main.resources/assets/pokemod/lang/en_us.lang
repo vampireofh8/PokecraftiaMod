@@ -1,25 +1,75 @@
-
-//Items
-item.ruby.name=Ruby
-item.obsidian_ingot.name=Obsidian Ingot
-
-//Blocks
-tile.ruby_block.name=Block of Ruby
-tile.ruby_ore.name=Ruby Ore
-
-//Tools
-item.ruby_sword.name=Ruby Sword
-item.ruby_shovel.name=Ruby Shovel
-item.ruby_pickaxe.name=Ruby Pickaxe
-item.ruby_axe.name=Ruby Axe
-item.ruby_hoe.name=Ruby Hoe
-
-//Armor
-item.ruby_helmet.name=Ruby Helmet
-item.ruby_chestplate.name=Ruby Chestplate
-item.ruby_leggings.name=Ruby Leggings
-item.ruby_boots.name=Ruby Boots
-
-//Food
-item.evil_apple.name=Evil Apple
-
+//Misc Items
+	//Food
+		item.evil_apple.name=Evil Apple
+//Custom Sets
+	//Red Sets---------------------------------------------
+		item.red_helmet.name=Red Helmet
+		item.red_chestplate.name=Red Chestplate
+		item.red_leggings.name=Red Leggings
+		item.red_boots.name=Red Boots
+		item.red_pickaxe.name=Red Pickaxe
+		item.red_axe.name=Red Axe
+		item.red_shovel.name=Red Shovel
+		item.red_hoe.name=Red Hoe
+		item.red_sword.name=Red Sword
+		item.red_ingot.name=Red Ingot
+		item.red_nugget.name=Red Nugget
+		tile.red_block.name=Red Block
+		tile.red_ore.name=Red Ore
+	//Orange Sets---------------------------------------------
+		item.orange_helmet.name=Orange Helmet
+		item.orange_chestplate.name=Orange Chestplate
+		item.ogange_leggings.name=Orange Leggings
+		item.orange_boots.name=Orange Boots
+		item.orange_sword.name=Orange Sword
+		item.orange_shovel.name=Orange Shovel
+		item.orange_pickaxe.name=Orange Pickaxe
+		item.orange_axe.name=Orange Axe
+		item.orange_hoe.name=Orange Hoe
+		item.orange_ingot.name=Orange Ingot
+		item.orange_nugget.name=Orange Nugget 
+		tile.orange_block.name=Orange Block
+		tile.orange_ore.name=Orange Ore
+	//yellow Sets---------------------------------------------
+		item.yellow_helmet.name=Yellow Helmet
+		item.yellow_chestplate.name=Yellow Chestplate
+		item.yellow_leggings.name=Yellow Leggings
+		item.yellow_boots.name=Yellow Boots
+		item.yellow_sword.name=Yellow Sword
+		item.yellow_shovel.name=Yellow Shovel
+		item.yellow_pickaxe.name=Yellow Pickaxe
+		item.yellow_axe.name=Yellow Axe
+		item.yellow_hoe.name=Yellow Hoe
+		item.yellow_ingot.name=Yellow Ingot
+		item.yellow_nugget.name=Yellow Nugget 
+		tile.yellow_block.name=Yellow Block
+		tile.yellow_ore.name=Yellow Ore
+	//Blue Sets---------------------------------------------
+		item.blue_helmet.name=Blue Helmet
+		item.blue_chestplate.name=Blue Chestplate
+		item.blue_leggings.name=Blue Leggings
+		item.blue_boots.name=Blue Boots
+		item.blue_pickaxe.name=Blue Pickaxe
+		item.blue_axe.name=Blue Axe
+		item.blue_shovel.name=Blue Shovel
+		item.blue_hoe.name=Blue Hoe
+		item.blue_sword.name=Blue Sword
+		item.blue_ingot.name=Blue Ingot
+		item.blue_nugget.name=Blue Nugget
+		tile.blue_block.name=Blue Block
+		tile.blue_ore.name=Blue Ore
+	//Green Sets---------------------------------------------
+		item.green_helmet.name=Green Helmet
+		item.green_chestplate.name=Green Chestplate
+		item.green_leggings.name=Green Leggings
+		item.green_boots.name=Green Boots
+		item.green_pickaxe.name=Green Pickaxe
+		item.green_axe.name=Green Axe
+		item.green_shovel.name=Green Shovel
+		item.green_hoe.name=Green Hoe
+		item.green_sword.name=Green Sword
+   		item.green_ingot.name=Green Ingot
+		item.green_nugget.name=Green Nugget
+		tile.green_block.name=Green Block
+		tile.green_ore.name=Green Ore
+	//---------------------------------------------

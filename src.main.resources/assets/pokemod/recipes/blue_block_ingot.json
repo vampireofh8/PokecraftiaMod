@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "pokemod:blue_block"
+        }
+    ],
+    "result": {
+        "item": "pokemod:blue_ingot",
+        "count": 9
+    }
+}

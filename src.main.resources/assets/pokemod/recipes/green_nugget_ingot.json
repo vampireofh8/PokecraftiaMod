@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GGG",
+        "GGG",
+        "GGG"
+    ],
+    
+    "key":
+    {
+        "G":{"item": "pokemod:green_nugget"}
+    
+    },
+
+    "result":
+    {"item": "pokemod:green_ingot","count": 1}
+}

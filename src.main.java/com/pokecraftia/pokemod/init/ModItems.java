@@ -3,8 +3,8 @@ package com.pokecraftia.pokemod.init;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.pokecraftia.pokemod.base.ArmorBase;
 import com.pokecraftia.pokemod.base.ItemBase;
-import com.pokecraftia.pokemod.items.armor.ArmorBase;
 import com.pokecraftia.pokemod.items.food.FoodEffectBase;
 import com.pokecraftia.pokemod.items.tools.ToolAxe;
 import com.pokecraftia.pokemod.items.tools.ToolHoe;

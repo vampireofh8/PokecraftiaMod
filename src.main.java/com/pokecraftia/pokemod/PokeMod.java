@@ -2,8 +2,14 @@ package com.pokecraftia.pokemod;
 
 import com.pokecraftia.pokemod.init.ModRecipes;
 import com.pokecraftia.pokemod.proxy.CommonProxy;
+import com.pokecraftia.pokemod.tabs.PokeModArmorTab;
+import com.pokecraftia.pokemod.tabs.PokeModBlockTab;
+import com.pokecraftia.pokemod.tabs.PokeModItemTab;
+import com.pokecraftia.pokemod.tabs.PokeModToolTab;
 import com.pokecraftia.pokemod.util.Reference;
 import com.pokecraftia.pokemod.world.ModWorldGen;
+
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.Mod.Instance;
@@ -16,6 +22,11 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 @Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)
 public class PokeMod {
   
+	public static final CreativeTabs pokemoditemtab = new PokeModItemTab("pokemoditemtab");
+	public static final CreativeTabs pokemodblocktab = new PokeModBlockTab("pokemodblocktab");
+	public static final CreativeTabs pokemodarmortab = new PokeModArmorTab("pokemodarmortab");
+	public static final CreativeTabs pokemodtooltab = new PokeModToolTab("pokemodtooltab");
+	
 	@SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.COMMON_PROXY_CLASS)
 	public static CommonProxy proxy;
     

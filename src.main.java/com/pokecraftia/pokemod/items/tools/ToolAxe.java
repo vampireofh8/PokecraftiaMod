@@ -4,7 +4,6 @@ import com.pokecraftia.pokemod.PokeMod;
 import com.pokecraftia.pokemod.init.ModItems;
 import com.pokecraftia.pokemod.util.IHasModel;
 
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemAxe;
 
 public class ToolAxe extends ItemAxe implements IHasModel {
@@ -14,7 +13,7 @@ public class ToolAxe extends ItemAxe implements IHasModel {
 		super(material, 6.0F, -3.2F);
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		setCreativeTab(CreativeTabs.MATERIALS);
+		setCreativeTab(PokeMod.pokemodtooltab);
 		
 		ModItems.ITEMS.add(this);
 	}

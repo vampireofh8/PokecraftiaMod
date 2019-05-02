@@ -30,6 +30,10 @@ public class ModWorldGen implements IWorldGenerator {
 		generateOre(ModBlocks.YELLOW_ORE.getDefaultState(), world, random, chunkX * 16, chunkZ * 16, 16, 64, random.nextInt(7) + 4, 18);
 		generateOre(ModBlocks.BLUE_ORE.getDefaultState(), 	world, random, chunkX * 16, chunkZ * 16, 16, 64, random.nextInt(7) + 4, 18);
 		generateOre(ModBlocks.GREEN_ORE.getDefaultState(), 	world, random, chunkX * 16, chunkZ * 16, 16, 64, random.nextInt(7) + 4, 18);
+		generateOre(ModBlocks.PURPLE_ORE.getDefaultState(), world, random, chunkX * 16, chunkZ * 16, 16, 64, random.nextInt(7) + 4, 18);
+		generateOre(ModBlocks.BROWN_ORE.getDefaultState(), world, random, chunkX * 16, chunkZ * 16, 16, 64, random.nextInt(7) + 4, 18);
+		generateOre(ModBlocks.BLACK_ORE.getDefaultState(), 	world, random, chunkX * 16, chunkZ * 16, 16, 64, random.nextInt(7) + 4, 18);
+		generateOre(ModBlocks.WHITE_ORE.getDefaultState(), 	world, random, chunkX * 16, chunkZ * 16, 16, 64, random.nextInt(7) + 4, 18);
 		
 	}
 	

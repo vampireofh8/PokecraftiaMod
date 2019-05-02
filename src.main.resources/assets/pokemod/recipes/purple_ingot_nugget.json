@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "pokemod:purple_ingot"
+        }
+    ],
+    "result": {
+        "item": "pokemod:purple_nugget",
+        "count": 9
+    }
+}

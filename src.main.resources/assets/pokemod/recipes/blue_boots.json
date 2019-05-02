@@ -3,13 +3,13 @@
     
     "pattern":
     [
-        "B B",
-        "B B"
+        "I I",
+        "I I"
     ],
     
     "key":
     {
-        "B":{"item": "pokemod:blue_ingot"}
+        "I":{"item": "pokemod:blue_ingot"}
     },
 
     "result":

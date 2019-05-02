@@ -3,14 +3,14 @@
     
     "pattern":
     [
-        "RRR",
-        "R R",
-        "R R"
+        "III",
+        "I I",
+        "I I"
     ],
     
     "key":
     {
-        "R":{"item": "pokemod:yellow_ingot"}
+        "I":{"item": "pokemod:yellow_ingot"}
     },
 
     "result":

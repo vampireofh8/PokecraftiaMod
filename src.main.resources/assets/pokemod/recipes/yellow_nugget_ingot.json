@@ -3,14 +3,14 @@
     
     "pattern":
     [
-        "RRR",
-        "RRR",
-        "RRR"
+        "III",
+        "III",
+        "III"
     ],
     
     "key":
     {
-        "R":{"item": "pokemod:yellow_nugget"}
+        "I":{"item": "pokemod:yellow_nugget"}
     
     },
 

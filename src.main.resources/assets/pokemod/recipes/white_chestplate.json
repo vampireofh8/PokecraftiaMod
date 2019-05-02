@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I I",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":{"item": "pokemod:white_ingot"}
+    },
+
+    "result":
+    {"item": "pokemod:white_chestplate","count": 1}
+}

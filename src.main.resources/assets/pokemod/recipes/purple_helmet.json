@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":{"item": "pokemod:purple_ingot"}
+    },
+
+    "result":
+    {"item": "pokemod:purple_helmet","count": 1}
+}

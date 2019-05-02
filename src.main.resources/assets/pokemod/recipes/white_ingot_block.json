@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":{"item": "pokemod:white_ingot"}
+    
+    },
+
+    "result":
+    {"item": "pokemod:white_block","count": 1}
+}

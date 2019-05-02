@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "pokemod:brown_block"
+        }
+    ],
+    "result": {
+        "item": "pokemod:brown_ingot",
+        "count": 9
+    }
+}

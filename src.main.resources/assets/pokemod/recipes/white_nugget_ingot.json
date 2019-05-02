@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":{"item": "pokemod:white_nugget"}
+    
+    },
+
+    "result":
+    {"item": "pokemod:white_ingot","count": 1}
+}

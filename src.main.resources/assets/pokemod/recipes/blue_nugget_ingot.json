@@ -3,14 +3,14 @@
     
     "pattern":
     [
-        "BBB",
-        "BBB",
-        "BBB"
+        "III",
+        "III",
+        "III"
     ],
     
     "key":
     {
-        "B":{"item": "pokemod:blue_nugget"}
+        "I":{"item": "pokemod:blue_nugget"}
     
     },
 

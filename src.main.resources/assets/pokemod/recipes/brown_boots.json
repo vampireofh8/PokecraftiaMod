@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":{"item": "pokemod:brown_ingot"}
+    },
+
+    "result":
+    {"item": "pokemod:brown_boots","count": 1}
+}

@@ -1,1 +1,7 @@
 /build/
+/config/
+/logs/
+/options.txt
+/saves/
+/usercache.json
+/usernamecache.json

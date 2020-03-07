@@ -9,6 +9,7 @@ import com.pokecraftia.pokemod.blocks.BlueBlock;
 import com.pokecraftia.pokemod.blocks.BlueOre;
 import com.pokecraftia.pokemod.blocks.BrownBlock;
 import com.pokecraftia.pokemod.blocks.BrownOre;
+import com.pokecraftia.pokemod.blocks.DiscordBlock;
 import com.pokecraftia.pokemod.blocks.GreenBlock;
 import com.pokecraftia.pokemod.blocks.GreenOre;
 import com.pokecraftia.pokemod.blocks.RedBlock;
@@ -49,6 +50,6 @@ public class ModBlocks
 		public static final Block BROWN_BLOCK 	= new BrownBlock(	"brown_block", 	Material.IRON);
 		public static final Block BLACK_BLOCK 	= new BlackBlock(	"black_block", 	Material.IRON);
 		public static final Block WHITE_BLOCK 	= new WhiteBlock(	"white_block", 	Material.IRON);
-
-
+		//SPECIAL BLOCKS
+		public static final Block DISCORD_BLOCK	= new DiscordBlock(	"discord_block", Material.IRON);
 }

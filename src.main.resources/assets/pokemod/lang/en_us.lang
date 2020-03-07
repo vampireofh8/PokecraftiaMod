@@ -134,3 +134,5 @@ item.white_ingot.name=White Ingot
 item.white_nugget.name=White Nugget
 tile.white_block.name=White Block
 tile.white_ore.name=White Ore
+//Special Blocks
+tile.discord_block.name=Discord Block

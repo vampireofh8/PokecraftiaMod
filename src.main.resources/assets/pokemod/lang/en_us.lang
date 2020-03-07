@@ -78,3 +78,17 @@ item.green_nugget.name=Green Nugget
 tile.green_block.name=Green Block
 tile.green_ore.name=Green Ore
 //---------------------------------------------
+//Purple Sets---------------------------------------------
+item.purple_helmet.name=Purple Helmet
+item.purple_chestplate.name=Purple Chestplate
+item.purple_leggings.name=Purple Leggings
+item.purple_boots.name=Purple Boots
+item.purple_pickaxe.name=Purple Pickaxe
+item.purple_axe.name=Purple Axe
+item.purple_shovel.name=Purple Shovel
+item.purple_hoe.name=Purple Hoe
+item.purple_sword.name=Purple Sword
+item.purple_ingot.name=Purple Ingot
+item.purple_nugget.name=Purple Nugget
+tile.purple_block.name=Purple Block
+tile.purple_ore.name=Purple Ore

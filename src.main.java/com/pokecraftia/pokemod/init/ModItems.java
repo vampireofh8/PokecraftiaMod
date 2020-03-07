@@ -31,15 +31,15 @@ public class ModItems
 {
 	//Materials
 		//tools
-		public static final ToolMaterial MATERIAL_RED = EnumHelper.addToolMaterial("material_red", 3, 250, 8.0F, 3.0F, 10);
-		public static final ToolMaterial MATERIAL_ORANGE = EnumHelper.addToolMaterial("material_orange", 3, 250, 8.0F, 3.0F, 10);
-		public static final ToolMaterial MATERIAL_YELLOW = EnumHelper.addToolMaterial("material_yellow", 3, 250, 8.0F, 3.0F, 10);
-		public static final ToolMaterial MATERIAL_BLUE = EnumHelper.addToolMaterial("material_blue", 3, 250, 8.0F, 3.0F, 10);
-		public static final ToolMaterial MATERIAL_GREEN = EnumHelper.addToolMaterial("material_green", 3, 250, 8.0F, 3.0F, 10);
-		public static final ToolMaterial MATERIAL_PURPLE = EnumHelper.addToolMaterial("material_purple", 3, 250, 8.0F, 3.0F, 10);
-		public static final ToolMaterial MATERIAL_BROWN = EnumHelper.addToolMaterial("material_brown", 3, 250, 8.0F, 3.0F, 10);
-		public static final ToolMaterial MATERIAL_BLACK = EnumHelper.addToolMaterial("material_black", 3, 250, 8.0F, 3.0F, 10);
-		public static final ToolMaterial MATERIAL_WHITE = EnumHelper.addToolMaterial("material_white", 3, 250, 8.0F, 3.0F, 10);
+		public static final ToolMaterial MATERIAL_RED = 	EnumHelper.addToolMaterial("material_red"	, 3, 250, 8.0F, 3.0F, 10);
+		public static final ToolMaterial MATERIAL_ORANGE = 	EnumHelper.addToolMaterial("material_orange", 3, 250, 8.0F, 3.0F, 10);
+		public static final ToolMaterial MATERIAL_YELLOW = 	EnumHelper.addToolMaterial("material_yellow", 3, 250, 8.0F, 3.0F, 10);
+		public static final ToolMaterial MATERIAL_BLUE = 	EnumHelper.addToolMaterial("material_blue"	, 3, 250, 8.0F, 3.0F, 10);
+		public static final ToolMaterial MATERIAL_GREEN = 	EnumHelper.addToolMaterial("material_green"	, 3, 250, 8.0F, 3.0F, 10);
+		public static final ToolMaterial MATERIAL_PURPLE = 	EnumHelper.addToolMaterial("material_purple", 3, 250, 8.0F, 3.0F, 10);
+		public static final ToolMaterial MATERIAL_BROWN = 	EnumHelper.addToolMaterial("material_brown"	, 3, 250, 8.0F, 3.0F, 10);
+		public static final ToolMaterial MATERIAL_BLACK = 	EnumHelper.addToolMaterial("material_black"	, 3, 250, 8.0F, 3.0F, 10);
+		public static final ToolMaterial MATERIAL_WHITE = 	EnumHelper.addToolMaterial("material_white"	, 3, 250, 8.0F, 3.0F, 10);
 		//armor
 		public static final ArmorMaterial ARMOR_MATERIAL_RED = EnumHelper.addArmorMaterial("armor_material_red", Reference.MOD_ID + ":red", 14, 
 				new int[] {2, 5, 7, 3}, 10, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 0.0F);

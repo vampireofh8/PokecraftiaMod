@@ -49,8 +49,6 @@ public class ModBlocks
 		public static final Block BROWN_BLOCK 	= new BrownBlock(	"brown_block", 	Material.IRON);
 		public static final Block BLACK_BLOCK 	= new BlackBlock(	"black_block", 	Material.IRON);
 		public static final Block WHITE_BLOCK 	= new WhiteBlock(	"white_block", 	Material.IRON);
-		
-		
 
 
 }

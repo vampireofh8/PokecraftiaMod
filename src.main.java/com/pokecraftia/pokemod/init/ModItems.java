@@ -5,6 +5,8 @@ import java.util.List;
 
 import com.pokecraftia.pokemod.base.ArmorBase;
 import com.pokecraftia.pokemod.base.ItemBase;
+import com.pokecraftia.pokemod.items.food.FoodBase;
+import com.pokecraftia.pokemod.items.food.FoodEffectBase;
 //import com.pokecraftia.pokemod.items.food.FoodEffectBase;
 import com.pokecraftia.pokemod.items.tools.ToolAxe;
 import com.pokecraftia.pokemod.items.tools.ToolHoe;
@@ -13,6 +15,7 @@ import com.pokecraftia.pokemod.items.tools.ToolSpade;
 import com.pokecraftia.pokemod.items.tools.ToolSword;
 import com.pokecraftia.pokemod.util.Reference;
 
+import net.minecraft.init.MobEffects;
 //import net.minecraft.init.MobEffects;
 import net.minecraft.init.SoundEvents;
 import net.minecraft.inventory.EntityEquipmentSlot;
@@ -24,6 +27,7 @@ import net.minecraft.item.ItemHoe;
 import net.minecraft.item.ItemPickaxe;
 import net.minecraft.item.ItemSpade;
 import net.minecraft.item.ItemSword;
+import net.minecraft.potion.PotionEffect;
 //import net.minecraft.potion.PotionEffect;
 import net.minecraftforge.common.util.EnumHelper;
 
@@ -174,5 +178,6 @@ public class ModItems
 			public static final Item BLACK_BOOTS = 		new ArmorBase	("black_boots",		ARMOR_MATERIAL_BLACK, 	1, EntityEquipmentSlot.FEET);
 			public static final Item WHITE_BOOTS = 		new ArmorBase	("white_boots",		ARMOR_MATERIAL_WHITE, 	1, EntityEquipmentSlot.FEET);			
 			//Food
-			//public static final Item EVIL_APPLE = new FoodEffectBase("evil_apple", 4, 2.4f, false, new PotionEffect(MobEffects.POISON, (60*20), 1, false, true));
+			public static final Item GOOD_APPLE = 		new FoodBase	("good_apple", 	8, 4.5f, false);
+			public static final Item EVIL_APPLE = 		new FoodEffectBase	("evil_apple", 	4, 2.4f, false, new PotionEffect(MobEffects.POISON, (60*20), 0, false, true));
 }

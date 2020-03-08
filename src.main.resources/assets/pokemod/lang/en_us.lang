@@ -6,6 +6,7 @@ itemGroup.PokeModBlockTab=Pokemod Blocks
 //Misc Items
 //Food
 item.evil_apple.name=Evil Apple
+item.good_apple.name=Good Apple
 //Custom Sets
 //Red Sets---------------------------------------------
 item.red_helmet.name=Red Helmet
